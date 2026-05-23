@@ -11,7 +11,7 @@ const cards=[
     image: image1,
     instructor: 'María Elizalde',
     price:'$200 mxn',
-    url:'https://www.google.com'
+    url:'https://dotnet.microsoft.com/es-es/languages/csharp'
   },
   {
     id:2,
@@ -19,7 +19,7 @@ const cards=[
     image: image2,
     instructor: 'B. Samuel Lopez Razo',
     price:'$300 mxn',
-    url:'https://www.google.com'
+    url:'https://academy.oracle.com/es/solutions-curriculum-java.html'
   },
   {
     id:3,
@@ -27,7 +27,7 @@ const cards=[
     image: image3,
     instructor: 'María Elizalde',
     price:'$500 mxn',
-    url:'https://www.google.com'
+    url:'https://www.netacad.com/learning-collections/python?courseLang=en-US'
   }
 ]
 
