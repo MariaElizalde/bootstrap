@@ -1,0 +1,11 @@
+.App {
+  height: 100vh;
+  background: #fb3fd2;
+  background: linear-gradient(200deg, rgb(236, 210, 15) 54%, rgb(240, 79, 4) 100%);
+}
+
+.imgStyle{
+  height: 300px;
+  width: 350px;
+}
+
