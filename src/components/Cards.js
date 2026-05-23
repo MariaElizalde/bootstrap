@@ -25,7 +25,7 @@ const cards=[
     id:3,
     title: 'Curso de Python',
     image: image3,
-    instructor: 'María Elizalde',
+    instructor: 'Maríaa Elizalde',
     price:'$500 mxn',
     url:'https://www.netacad.com/learning-collections/python?courseLang=en-US'
   }
